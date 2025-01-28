@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate MERN stack developer from Bangladesh, currently based in Doha, Qatar. I love creating intuitive, efficient, and visually appealing web applications. Below, you'll find more about my skills, projects, and how to connect with me.
 
-![Banner](./A_simple_and_professional_GitHub_profile_banner_wi.png)
+![Banner](./A_simple_banner_wi.png)
 
 ---
 
