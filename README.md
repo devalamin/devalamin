@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalamin&label=Profile%20views&color=0e75b6&style=flat" alt="devalamin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devalamin" alt="devalamin" /></a> </p>
+
 
 - 🌱 I’m currently learning **Next js**
 
