@@ -1,25 +1,51 @@
-<h1 align="center">Hi 👋, I'm Al Amin</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+# Hi there, I'm Al Amin! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devalamin&label=Profile%20views&color=0e75b6&style=flat" alt="devalamin" /> </p>
+Welcome to my GitHub profile! I'm a passionate MERN stack developer from Bangladesh, currently based in Doha, Qatar. I love creating intuitive, efficient, and visually appealing web applications. Below, you'll find more about my skills, projects, and how to connect with me.
 
+![Banner](./A_simple_and_professional_GitHub_profile_banner_wi.png)
 
+---
 
-- 🌱 I’m currently learning **Next js**
+## 🌟 Skills
 
-- 💬 Ask me about **Javascript,React js**
+- **Front-end Development:** HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, DaisyUI, Bootstrap
+- **Back-end Development:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools & Platforms:** Firebase, Git, GitHub, Vercel
+- **UI/UX Design:** Figma, Photoshop, Sketch, PSD to HTML
+- **Libraries & Frameworks:** Chart.js, Canvas.js
 
-- 📫 How to reach me **alamin.dev.web@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a2eV9A9z0qIoOFtEOZqb1sRBmT1sduVl/view](https://drive.google.com/file/d/1a2eV9A9z0qIoOFtEOZqb1sRBmT1sduVl/view)
+## 🛠️ Projects
 
-- ⚡ Fun fact **N/A**
+Here are some of the projects I have worked on:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+1. **[Gymnasium](https://gymnasiumn.netlify.app/):** A fitness-focused web application.
+2. **[Captise](https://captise.netlify.app/):** A modern and engaging project.
+3. **[Optimum Health](https://optimum-health-ea895.web.app/):** A platform for health solutions.
+4. **[Learnoglance](https://learnoglance.web.app/):** An e-learning platform.
+5. **[Hunt](https://hunt-site.netlify.app/):** A feature-rich website.
+6. **[The Guardian Copy](https://the-guardian2264.netlify.app/):** A news-oriented website.
+7. **[Portfolio Design](https://morgan-portfolio-site.netlify.app/):** A clean and creative portfolio.
+8. **[Aromatic Food](https://aromatic-food.netlify.app/):** A delightful food website.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devalamin&show_icons=true&locale=en&layout=compact" alt="devalamin" /></p>
+## 📫 Connect with Me
+
+- **GitHub:** [github.com/devalamin](https://github.com/devalamin)
+- **Portfolio:** [portfolio-2264.netlify.app](https://portfolio-2264.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/alamin2264](https://www.linkedin.com/in/alamin2264/)
+- **Email:** [alamin.dev.web@gmail.com](mailto:alamin.dev.web@gmail.com)
+- **Facebook:** [facebook.com/Alamin2264](https://www.facebook.com/Alamin2264)
+
+---
+
+## 📄 Resume
+
+Check out my resume here: [View Resume](https://drive.google.com/file/d/1a2eV9A9z0qIoOFtEOZqb1sRBmT1sduVl/view)
+
+---
+
+Thank you for visiting my profile! Let's connect and create something amazing together. 🚀
